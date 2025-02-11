@@ -1,6 +1,6 @@
-# Trading Algorithm Boilerplate
+# [Algorithmic-Trading-Simulation]
 
-This project provides a robust **trading algorithm simulator** that allows users to build, test, and optimize trading strategies using historical or live stock data. The platform features advanced candlestick visualizations, indicator plotting, and Monte Carlo simulations to find the best-performing parameter configurations. All tools are pre-configured, making it beginner-friendly yet powerful for advanced users.
+This project provides a robust **Algorithmic-Trading-Simulation** that allows users to build, test, and optimize trading strategies using historical or live stock data. The platform features advanced candlestick visualizations, indicator plotting, and Monte Carlo simulations to find the best-performing parameter configurations. All tools are pre-configured, making it beginner-friendly yet powerful for advanced users.
 
 ---
 
@@ -25,7 +25,7 @@ Ensure Python (>= 3.7) is installed. Download it [here](https://www.python.org/d
 Fork and clone this repository:
 
 ```shell
-git clone https://github.com/your-username/trading-algorithm-boilerplate.git
+git clone https://github.com/saptarshi11/Algorithmic-Trading-Simulation.git
 cd trading-algorithm-boilerplate
 ```
 
@@ -263,13 +263,6 @@ Future updates include:
 
 ---
 
-## Final notes:
-
-- Asset class focus: US equities and ETFs
-- Data source: yfinance
-
----
-
 ## Contribute
 
-We welcome contributions! Submit pull requests or issues on [GitHub](https://github.com/JamieWells1/trading-algorithm-boilerplate/issues)
+We welcome contributions! Submit pull requests or issues on [GitHub](https://github.com/saptarshi11/Algorithmic-Trading-Simulation)
