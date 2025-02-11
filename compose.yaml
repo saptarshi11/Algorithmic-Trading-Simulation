@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  frst-dash:
+    build: .
+    ports:
+      - "4500:8080"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - .:/app
+    command: gunicorn -b 0.0.0.0:8080 app:server
+    restart: always
